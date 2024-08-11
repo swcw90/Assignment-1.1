@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+    color:black;
+    font-family: Arial, sans-serif;
+
+}
+
+<!DOCTYPE html>
+<!-- Name : Spencer Wenn -->
+
+<html>
+
+<head>
+
+<!-- Document Title -->   
+
+<Title>Index Html First Page</Title>
+
+</head>
+
+<!-- Page Body-->
+ 
+<body>
+
+    <!-- Page Header -->
+
+    <h1>Welcome To My First Page</h1>
+
+    <!-- Document Paragraph and Meme Image-->
+<p>
+
+    <img id="memeImage" src="earthmeme.jpg">
+
+</p>
+
+</body>
+
+</html>

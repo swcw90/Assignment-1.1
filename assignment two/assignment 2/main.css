@@ -1,0 +1,44 @@
+/* Body properties */
+
+body {
+    background-color: aquamarine;
+    color:black;
+    font-family: Arial, sans-serif;
+
+}
+
+/* Navigation Properties */
+
+nav {
+height: 6000px;
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 30px;
+background-color: rgb(240, 219, 199)
+
+}
+
+/* Footer Properties */
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+    font-size: 14px;
+    padding: 10px;
+}
+
+#memeImage{
+    margin-right: 200px;
+    max-width: 100%;
+    border: 2px solid black;
+}
+
+/* Header properties */
+
+h1{
+    text-align: center;
+    font-size: 36px;
+    color: black
+
+}
